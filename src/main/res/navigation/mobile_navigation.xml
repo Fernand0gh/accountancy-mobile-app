@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_1">
+
+    <fragment
+        android:id="@+id/nav_1"
+        android:name="com.example.myapplication.ui.panel1.BienvenidaFragment"
+        android:label="@string/menu_bienvenida"
+        tools:layout="@layout/fragment_bienvenida" />
+
+    <fragment
+        android:id="@+id/nav_2"
+        android:name="com.example.myapplication.ui.panel2.CrudFragment"
+        android:label="@string/menu_crud"
+        tools:layout="@layout/fragment_crud" />
+
+    <fragment
+        android:id="@+id/nav_3"
+        android:name="com.example.myapplication.ui.panel3.RecyclerFragment"
+        android:label="Consultar"
+        tools:layout="@layout/fragment_recycler" />
+    <fragment
+        android:id="@+id/nav_5"
+        android:name="com.example.myapplication.ui.panel5.RecyclerPolizaFragment"
+        android:label="Consultar" />
+    <fragment
+        android:id="@+id/nav_4"
+        android:name="com.example.myapplication.ui.panel6.AgregarPolizaFragment"
+        android:label="Registro de Póliza" />
+    <fragment
+        android:id="@+id/nav_6"
+        android:name="com.example.myapplication.ui.panel4.PregConsultaFragment"
+        android:label="@string/menu_consultar" />
+</navigation>

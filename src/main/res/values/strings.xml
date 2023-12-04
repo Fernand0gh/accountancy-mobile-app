@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_bienvenida">Aplicacion Contable</string>
+    <string name="menu_crud">CRUD de Cuentas</string>
+    <string name="menu_polizas">Pólizas</string>
+    <string name="menu_consultar">Consultar</string>
+</resources>
