@@ -5,4 +5,4 @@ Built in Java using Android Studio.
   
 ![image](https://github.com/Fernand0gh/accountancy-mobile-app/assets/117942609/7a2e2aa7-c5c7-4bd3-a119-59e46e071035)
   
-![image](https://github.com/Fernand0gh/accountancy-mobile-app/assets/117942609/b1ad6496-8acb-4e54-a33f-7d05f3e20da5)
+![image](https://github.com/Fernand0gh/accountancy-mobile-app/assets/117942609/9914ad16-67f9-476e-afba-029c0cfec47a)
